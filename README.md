@@ -1,5 +1,4 @@
 Welcome to the
-*--- Financial Calculator ---*
+*--- Financial Calculator ---* 
 Authors: 
-    Saksham Kaushik
-    Daksh Agarwal
+Saksham Kaushik, Daksh Agarwal
